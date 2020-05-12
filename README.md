@@ -1,16 +1,5 @@
-# contribflutter
+# Contrib #01 - Flutter
 
-A new Flutter project.
+O Contrib é um quadro criado para reunirmos todas as comunidades de programação 💜🤩
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nessa live vamos descobrir na prática como o Flutter funciona e como podemos construir interfaces expressivas utilizando a tecnologia do Google para desenvolvimento mobile crossplatform com a ajuda do Jacob Moura do canal Flutterando.💜
